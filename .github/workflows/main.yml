@@ -7,7 +7,7 @@ on:
       
 
 env:
-  AZURE_WEBAPP_NAME: WebApplication2
+  AZURE_WEBAPP_NAME: BAF-POS
   DOTNET_VERSION: '8.0.x'
   PROJECT_PATH: ./BAF-POS.sln
 
