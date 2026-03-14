@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      
 
 env:
   AZURE_WEBAPP_NAME: BAF-POS
